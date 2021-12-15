@@ -1,3 +1,6 @@
-# kaggle
+# kaggle Curriculum
 python code for kaggle \
 '이유한 캐글 커리큘럼' 필사 중
+https://kaggle-kr.tistory.com/32
+
+1st level. Titanic: Machine Learning from Disaster 완료
