@@ -5,4 +5,4 @@ https://kaggle-kr.tistory.com/32
 
 Binary classification : Tabular data\
 1st level. Titanic: Machine Learning from Disaster - 완료\
-2nd level. Porto Seguro's Safe Driver Prediction - 진행 중
+2nd level. Porto Seguro's Safe Driver Prediction - 진행 중(1.완료)
