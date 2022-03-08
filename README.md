@@ -2,7 +2,8 @@
 
 # Hands On Machinelearning
 python code for Hands On Machinelearning 📖.  
-이론 정리는 notion에 팀원들과 함께 \
+이론 정리는 notion에 Find-A 팀원들과 함께 진행 중\
+
 
 
 # Kaggle Curriculum
