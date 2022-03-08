@@ -1,3 +1,10 @@
+# Study_machinelearning
+
+# Hands On Machinelearning
+python code for Hands On Machinelearning 📖.  
+이론 정리는 notion에 팀원들과 함께 \
+
+
 # Kaggle Curriculum
 python code for kaggle \
 '이유한 캐글 커리큘럼' 필사 중\
